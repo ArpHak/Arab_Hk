@@ -10,7 +10,7 @@
 
 # pip install requests
 
-# git clone https://github.com/ArpHak/Arab_Hk/edit/main/README.md
+# git clone https://github.com/ArpHak/Arab_Hk.git
 
 # cd Arab_Hk
 
